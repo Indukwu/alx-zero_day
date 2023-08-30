@@ -1,1 +1,2 @@
-my first git directory
+My first readme
+updating it
